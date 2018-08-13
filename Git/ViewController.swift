@@ -19,6 +19,7 @@ class ViewController: UIViewController {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
         print("V4")
+        print("V4")
     }
 
 
