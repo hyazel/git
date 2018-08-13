@@ -24,6 +24,7 @@ class ViewController: UIViewController {
         print("synthese")
         print("synthese")
         print("V4")
+        print("V4")
     }
 
 
