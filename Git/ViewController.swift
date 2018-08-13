@@ -21,6 +21,7 @@ class ViewController: UIViewController {
         print("merge")
         print("synthese")
         print("synthese")
+        print("synthese")
     }
 
 
