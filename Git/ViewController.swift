@@ -20,6 +20,7 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
         print("V4")
         print("V4")
+        print("synthese")
     }
 
 
